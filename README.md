@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef78F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonh+Wesley;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+## About 
+Me chamo Jonh Wesley, desenvolvedor Front-end, tenho 21 anos e sou de São Luís, Maranhão.
+Atualmente, estou cursando Ciência da Computação na Anhanguera, tenho muito interesse por tecnologia e busco sempre crescer em nível de conhecimento técnico e desenvolver minhas soft skills.
+
+
+
 <div style="text-align: center; display: flex; justify-content: center; gap: 20px;" align="center">
     
   <br>
