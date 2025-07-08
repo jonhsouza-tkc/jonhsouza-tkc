@@ -11,23 +11,33 @@ Atualmente, estou cursando Ciência da Computação na Anhanguera, tenho muito i
 <div style="text-align: center; display: flex; justify-content: center; gap: 20px;" align="center">
     
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonhsouza-tkc&hide_title=false&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=141321&title_color=fe428e&text_color=a9fef7&border_radius=3&border_color=a9fef7&icon_color=f8d847&theme=dark" alt="GitHub stats">
 
-  <a href="https://github.com/jonhsouza-tkc/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jonhsouza-tkc&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=fe428e&hide=html,scss,less&bg_color=141321&text_color=a9fef7&border_radius=3&border_color=a9fef7&count_private=true" alt="Most Used Languages">
-  </a>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonhsouza-tkc&theme=radical)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonhsouza-tkc&theme=radical)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonhsouza-tkc&theme=radical&utcOffset=8)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonhsouza-tkc&theme=radical)
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonhsouza-tkc&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
+
 </div>
 
 
 
 <div align="left">
 <h2 align="left">Main skills: </h2>
-    
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="50" />
 
 </div>
