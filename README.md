@@ -2,29 +2,94 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef78F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonh+Wesley;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+  <br>
+  <br>
+
+<div align="center">
+  <img
+    src="https://i.imgur.com/EHmbHky.png"
+    height="300"
+    alt="Minha Imagem"
+  />
+</div>
+
+  <br>
+  <br>
+
 ## About 
 Me chamo Jonh Wesley, desenvolvedor Front-end, tenho 21 anos e sou de São Luís, Maranhão.
 Atualmente, estou cursando Ciência da Computação na Anhanguera, tenho muito interesse por tecnologia e busco sempre crescer em nível de conhecimento técnico e desenvolver minhas soft skills.
 
 
-
-<div style="text-align: center; display: flex; justify-content: center; gap: 20px;" align="center">
-    
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=jonhsouza-tkc&show_icons=true&count_private=true&rank_icon=github&theme=radical"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhsouza-tkc&layout=compact&langs_count=16&theme=radical"
+  />
   <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonhsouza-tkc&theme=radical"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Streak-stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=jonhsouza-tkc&theme=radical&hide"
+  />
+  </div>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonhsouza-tkc&theme=radical)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonhsouza-tkc&theme=radical)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonhsouza-tkc&theme=radical&utcOffset=8)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonhsouza-tkc&theme=radical)
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonhsouza-tkc&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
