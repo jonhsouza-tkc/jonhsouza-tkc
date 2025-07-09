@@ -20,6 +20,8 @@
 Me chamo Jonh Wesley, desenvolvedor Front-end, tenho 21 anos e sou de São Luís, Maranhão.
 Atualmente, estou cursando Ciência da Computação na Anhanguera, tenho muito interesse por tecnologia e busco sempre crescer em nível de conhecimento técnico e desenvolver minhas soft skills.
 
+  <br>
+  <br>
 
 <div align="center">
   <img
