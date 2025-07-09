@@ -43,55 +43,12 @@ Atualmente, estou cursando Ciência da Computação na Anhanguera, tenho muito i
   />
   <br>
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Streak-stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=jonhsouza-tkc&theme=radical&hide"
-  />
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=jonhsouza-tkc&theme=radical&hide_border=false)
+  
   </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <br>
+    <br>
 
 <div align="left">
 <h2 align="left">Main skills: </h2>
